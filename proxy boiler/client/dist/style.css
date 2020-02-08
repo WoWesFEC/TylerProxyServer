@@ -1,0 +1,32 @@
+.wowes {
+  margin-left: 20%;
+  margin-right: 20%;
+  position: relative;
+  display: block;
+  max-width: 1032px;
+}
+
+#apptop {
+  position: relative;
+  display: block;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+#tom {
+  position: relative;
+  width: 50%;
+  left: 48%;
+  margin-top: 6%;
+  margin-bottom: .5%;
+}
+
+.ben {
+  margin-top: 0;
+  margin-bottom: 15px;
+  overflow-y: auto;
+ 
+}
